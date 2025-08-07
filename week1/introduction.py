@@ -1,4 +1,3 @@
-# 自己紹介
 name = "kazuki"
 hometown = "tokyo"
 hobby = "baseball"
