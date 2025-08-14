@@ -1,5 +1,0 @@
-print("hello * 3")
-
-nums = [num for num in range(1, 101) if num % 3 == 0]
-print(nums)
-    
